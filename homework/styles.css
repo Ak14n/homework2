@@ -1,0 +1,22 @@
+h1{
+    background: #3434a7;
+}
+.paragraf-1{
+    background: rgb(139, 147, 129);
+    font-size: 32pt; 
+    color: whitesmoke;
+}
+
+.paragraf-2{
+    border: 4px solid yellow;
+    border-radius: 5px;
+    font-size: 24px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraf-3{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
